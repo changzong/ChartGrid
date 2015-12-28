@@ -1,0 +1,23 @@
+.plot-container {
+	border: 1px solid #BBB;
+}
+
+.gridster .gs-w {
+    cursor: pointer;
+}
+
+
+.gridster .preview-holder {
+    border: none;!important;
+    background: #BBB!important;
+}
+
+.gridster div header {
+        background: #999;
+        display: block;
+        font-size: 20px;
+        line-height: normal;
+        padding: 4px 0 6px ;
+        margin-bottom: 20px;
+        cursor: move;
+}
